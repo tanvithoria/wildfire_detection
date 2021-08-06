@@ -39,6 +39,11 @@ pip install Pillow
 ```bash
 pip install matplotlib
 ```
+
+```bash
+pip install keras
+```
+
 ## Quick Start (Inference only)
 To test the fire detector on test images located in [`TrainYourOwnYOLO/Data/Source_Images/Test_Images`](/Data/Source_Images/Test_Images) run the `WildFire_detect.py` script in the root folder with:
 
